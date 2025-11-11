@@ -7,5 +7,6 @@ int main()
   cin>>question;
   cout<<"you asked : "<<question<<endl;
   cout<<"I'm still learning :)";
+  cout<<"But I promise I'll get smarter with every update!"<<endl;
   return 0;
 }
